@@ -1,6 +1,5 @@
 # Agenda
-Agenda telefonica em C utilizando listas lineares duplamente encadeada.
-PROJETO DE ESTRUTURA DE DADOS
+Agenda telefonica em C utilizando listas lineares duplamente encadeada
     
 -Subprogramas-   
 (a)	Procedimento para cadastrar um novo contato na agenda na lista secundária correspondente. Se, na lista principal ainda não existir uma entrada com a primeira letra do nome do contato, inserir a letra na lista principal para possibilitar a inserção do contato.
